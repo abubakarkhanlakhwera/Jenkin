@@ -1,36 +1,28 @@
-# Jenkin
+# Jenkins Practice
 
-Jenkins practice workspace for CI/CD fundamentals.
+CI/CD practice workspace for Jenkins fundamentals.
 
-## Overview
+## Purpose
 
-This is a DevOps and infrastructure practice repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+This repository is for learning how automated build/test pipelines support software delivery. It uses web/project examples as material for Jenkins practice.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- CI/CD learning
+- Jenkins workflow practice
+- Project-based automation examples
 
-## Tech Stack
+## Stack
 
-- Primary language: HTML
-- Topics: ci-cd, devops, jenkins
-
-## Repository Structure
-
-- Top-level folders: Boardgame
-- Top-level files: No top-level files detected.
-
-## Status
-
-This is a learning/prototype repository kept public to show practice, experimentation, and growth.
+- Jenkins
+- HTML/web project
+- DevOps
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Rename to Jenkins in a future repo
+- Add Jenkinsfile examples
+- Document pipeline screenshots/results
 
 ## Author
 
